@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@700&family=Roboto:wght@300&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+h1,h2,h3{
+    font-size: 40px;
+    text-align: center;
+    color: white;
+    font-family: 'Roboto', sans-serif;
+}
+.valor{
+    font-size: 14px;
+    padding-left: 3rem;
+    color: darkgray;
+}
+.oferta{
+    font-size: 22px;
+    padding-left: 1rem;
+    color: limegreen;
+}
+.container-fluid img{
+    width: 8rem;
+    margin-left: 25px;
+}
+.card{
+    text-align: left; 
+    font-size: 15px;
+}
+.col{
+    padding-left: 85px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+.card img{
+    width: 287px;
+}
+.card-title{
+    font-family: 'Open Sans', sans-serif;
+}
+.card-text{
+    font-family: 'Roboto', sans-serif;
+}
+.nav-item{
+    font-size: 25px;
+}
+.mb-3 h2{
+    padding-bottom: 2rem;
+}
+.submit{
+    padding: 3rem;
+    background-color: rgb(94, 88, 88);
+}
+footer{
+    padding: 2rem;
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-size: 12px;
+}
+footer img{
+    width: 200px;
+}
